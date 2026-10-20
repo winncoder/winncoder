@@ -93,7 +93,12 @@
   },
   "projects": {
     "source": "pinned",
-    "repos": [],
+    "repos": [
+      "shell-chooser-gui",
+      "My-font-Sf-pro-",
+      "Cloud-pc-",
+      "Test-Cloud-Pc"
+    ],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
