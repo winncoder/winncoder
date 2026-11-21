@@ -1,15 +1,10 @@
 {
- "key": "ac16d0f7",
+ "key": "78ae2b44",
  "stars": 0,
- "contributions": 146,
- "repos": 7,
+ "contributions": 43,
+ "repos": 6,
  "followers": 0,
- "languages": [
-  [
-   "Python",
-   7465
-  ]
- ],
+ "languages": [],
  "days": [
   [
    {
@@ -114,14 +109,18 @@
    {
     "c": 1,
     "day": 20,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 21,
+    "today": true
+   }
   ]
  ],
  "streak": {
   "current": 1,
-  "longest": 3
+  "longest": 2
  },
  "pins": [],
  "all": [
@@ -159,15 +158,6 @@
    "fork": false,
    "stars": 0,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "Cloud-pc-",
-   "url": "https://github.com/winncoder/Cloud-pc-",
-   "text": "Working Cloud pc from GitHub Runner (Cloud server)",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
    "topics": []
   },
   {
